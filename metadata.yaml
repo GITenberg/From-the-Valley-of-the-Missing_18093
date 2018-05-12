@@ -1,0 +1,30 @@
+_repo: From-the-Valley-of-the-Missing_18093
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: White, Grace Miller
+    birthdate: 1868
+    deathdate: 1957
+    gutenberg_agent_id: '7802'
+    url: http://www.gutenberg.org/2009/agents/7802
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Miller_White
+description: ''
+gutenberg_bookshelf: Movie Books
+gutenberg_issued: '2006-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18093'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Kidnapping -- Fiction'
+- !lcc 'PS'
+title: From the Valley of the Missing
+url: http://www.gutenberg.org/ebooks/18093
